@@ -1,7 +1,7 @@
 # INSTALLATION
-INSTALLATION DE MYSQL
-source: mysql-8.0.36.tar.gz
-voici les étapes pour l’installation de mysql via un code source :
+# INSTALLATION DE MYSQL
+# source: mysql-8.0.36.tar.gz
+# voici les étapes pour l’installation de mysql via un code source :
 
 
 1- désarchiver et décompresser 
