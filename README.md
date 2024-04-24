@@ -50,8 +50,8 @@
     Erreur : permission non accordée
     $ sudo su root
     # make install
-
-    <h1>INSTALLATION D'APACHE</h1>
+<h1>INSTALLATION D'APACHE</h1>
+    
     Code source : httpd-2.4.59.tar.gz
     Voici les étapes de l'installation d'Apache via un code source :
 
@@ -85,8 +85,9 @@
     prefix : /usr/local/apache2
     Pour vérifier, on utilise :
     $ /usr/local/apache2/bin/apachectl start
-
-    <h1>INSTALLATION DE PHP</h1>
+<h1>INSTALLATION DE PHP</h1>
+    
+    
     Code source : php-8.3.6.tar.gz
     1. Pour décompresser et désarchiver :
     $ tar -zxvf httpd-2.4.59.tar.gz
@@ -108,6 +109,6 @@
     # make install
     Pour vérifier :
     $ php -v
-    </pre>
+</pre>
 </body>
 </html>
